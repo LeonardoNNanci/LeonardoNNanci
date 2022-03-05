@@ -15,6 +15,6 @@ Looking for oportunities to work as developer.
 <a href="https://twitter.com/nnanciLeo">
   <img align="left" alt="Twitter" width="20px" src="https://www.iconsdb.com/icons/preview/gray/twitter-3-xxl.png"/>
 </a>
-<a href="leonardonanci@id.uff.br">
+<a href="mailto:leonardonanci@id.uff.br">
   <img align="left" alt="E-mail" width="20px" src="https://www.iconsdb.com/icons/preview/gray/mail-xxl.png"/>
 </a>
