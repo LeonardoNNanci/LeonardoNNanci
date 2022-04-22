@@ -4,7 +4,7 @@
 
 Computer Science undergraduate student at UFF in Niteroi-RJ Brazil.
 
-Looking for oportunities to work as developer.
+In order to practice and extend my abilities, I like to develop applications, to solve coding challenges from online judges and to take part in competitive programming events. I always seek to implement the best solution to each situation, trying to find the right balance between clean code and efficiency.
 
 <a href="https://linkedin.com/in/leonardonoia">
   <img align="left" alt="LinkedIn" width="20px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png"/>
